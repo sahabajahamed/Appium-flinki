@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "request": "launch",
+        "name": "Run TestNG in Terminal",
+        "mainClass": "org.testng.TestNG",
+        "console": "integratedTerminal",
+        "args": "testng.xml"
+      }
+    ]
+  }
+  
